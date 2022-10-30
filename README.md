@@ -159,6 +159,8 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Second part of Airbnb: Joann Vuong
+Web dynamic of Airbnb:
+Grace Effiong - [Github](https://github.com/Rubylena) / [Email](graceffiong@gmail.com)
+Eka Essien - [Github](https://github.com/Tishly) / [Email](ekaetteessien27@gmail.com)
 ## License
 Public Domain. No copy write protection. 
