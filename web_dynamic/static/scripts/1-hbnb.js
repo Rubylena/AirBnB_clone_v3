@@ -1,3 +1,4 @@
+#!/usr/bin/node
 $(
     function(){
         const amenities = document.querySelector('.amenities');
